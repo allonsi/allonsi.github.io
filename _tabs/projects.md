@@ -10,7 +10,7 @@ A selection of research tools, software, and side projects.
 
 ---
 
-### [Project Name]
+### A generalized variational autoencoder with mixture-of-experts prediction
 *[Year] · [Language/Framework]*
 
 [2–3 sentence description. What problem does it solve? What is the key idea?]
