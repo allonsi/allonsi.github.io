@@ -58,5 +58,5 @@ I am particularly interested in [specific aspect], with the goal of [broader imp
 
 ## Collaborators
 
-- [Prof. Advisor Name](link) — [University]
+- Dr. Hongxiao Zhu (link) — Virginia Tech
 - [Collaborator Name](link) — [University/Organization]
