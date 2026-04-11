@@ -5,7 +5,7 @@ order: 1
 
 ## About Me
 
-I am a PhD student in the Department of Statistics at Virginia Tech, advised by Dr. Hongxiao Zhu ([link](https://hongxiaozhu.github.io/)). I am interested in developing novel statistical methods to address critical challenges in complex and heterogeneous data environments. My PhD work focused on developing statistical machine learning frameworks for medical imaging data, as well as analyzing kinetics of chemical elements using sequences of X-ray scans.
+I am a PhD Candidate in the Department of Statistics at Virginia Tech, advised by Dr. Hongxiao Zhu ([link](https://hongxiaozhu.github.io/)). I am interested in developing novel statistical methods to address critical challenges in complex and heterogeneous data environments. My PhD work focused on developing statistical machine learning frameworks for medical imaging data, as well as analyzing kinetics of chemical elements using sequences of X-ray scans.
 
 Before starting my PhD, I received my BE/MS in Statistics from Sungkyunkwan University in 2018 and 2020, respectively.
 
@@ -18,8 +18,8 @@ Ph.D. in Statistics · 2020 – Present
 Advisor: Dr. Hongxiao Zhu
 
 **Sungkyunkwan University** · Seoul, Republic of Korea
-M.S. in Statsitics · 2020
-B.E. in Statsitics · 2018
+M.S. in Statistics · 2020
+B.E. in Statistics · 2018
 
 ---
 

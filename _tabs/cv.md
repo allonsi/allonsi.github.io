@@ -43,7 +43,7 @@ B.E. in Statistics · 2011 – 2018
 
 ---
 
-# TALKS 
+## Talks
 
 **Lee, J.**, Liu, M. and Zhu, H., Supervised Variational Autoencoder with Mixture-of-Experts Prediction, ENAR 2026 Spring Meeting, Indianapolis, IN, Mar 2026. (Presentation)
 
@@ -158,7 +158,7 @@ Teaching Assistant
 
 ---
 
-# COMPUTING
+## Computing
 
 - Languages/Tools: R, Python, Git, Matlab, SAS, C++
 - Proficient in High-Performance Computing (HPC) environment with Slurm workload manager

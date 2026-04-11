@@ -23,7 +23,7 @@ title: Home
       <a href="/about/">About</a> &nbsp;·&nbsp;
       <a href="/research/">Research</a> &nbsp;·&nbsp;
       <a href="/cv/">CV</a> &nbsp;·&nbsp;
-      <a href="mailto:your.email@university.edu">Email</a>
+      <a href="mailto:jaeyounglee@vt.edu">Email</a>
     </p>
   </div>
 </div>
