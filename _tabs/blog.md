@@ -1,0 +1,39 @@
+---
+layout: Blog
+title: Blog
+icon: fas fa-pen-nib
+order: 5
+---
+
+## Font Awesome Icon List
+
+### General
+
+| 아이콘 | 클래스 |
+|--------|--------|
+| 집 | `fas fa-house` |
+| 사람 | `fas fa-user` |
+| 태그 | `fas fa-tags` |
+| 아카이브 | `fas fa-archive` |
+| 별 | `fas fa-star` |
+| 플라스크 | `fas fa-flask` |
+| 현미경 | `fas fa-microscope` |
+| 책 | `fas fa-book` |
+| 졸업모자 | `fas fa-graduation-cap` |
+| 코드 | `fas fa-code` |
+| 파일 | `fas fa-file` |
+| 브레인 | `fas fa-brain` |
+| 로켓 | `fas fa-rocket` |
+| 지구 | `fas fa-globe` |
+| 링크 | `fas fa-link` |
+| 편지 | `fas fa-envelope` |
+
+### Chirpy Basics
+
+| 탭 | 클래스 |
+|----|--------|
+| 홈 | `fas fa-house` |
+| 카테고리 | `fas fa-folder-open` |
+| 태그 | `fas fa-tags` |
+| 아카이브 | `fas fa-box-archive` |
+| 소개 | `fas fa-address-card` |
