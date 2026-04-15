@@ -21,7 +21,6 @@ title: Home
     </p>
     <p>
       <a href="/about/">About</a> &nbsp;·&nbsp;
-      <a href="/research/">Research</a> &nbsp;·&nbsp;
       <a href="/cv/">CV</a> &nbsp;·&nbsp;
       <a href="mailto:jaeyounglee@vt.edu">Email</a>
     </p>
