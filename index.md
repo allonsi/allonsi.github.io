@@ -17,9 +17,6 @@ title: Home
       data and robust prediction by linking latent space and responses.
     </p>
     <p>
-      I am advised by <a href="#">Dr. Hongxiao Zhu</a> at <a href="#">Virginia Tech</a>.
-    </p>
-    <p>
       <a href="/about/">About</a> &nbsp;·&nbsp;
       <a href="/cv/">CV</a> &nbsp;·&nbsp;
       <a href="mailto:jaeyounglee@vt.edu">Email</a>
@@ -42,15 +39,15 @@ title: Home
 
 ## Selected Publications
 
-**Spatiotemporal and Statistical Mapping of Transition Metal Equilibria in Alkaline Media**
-Promi, A., **Lee, J.**, Meyer, K., et al.
-*Chemistry of Materials*, 2026.
+**Spatiotemporal and Statistical Mapping of Transition Metal Equilibria in Alkaline Media**  
+Promi, A., **Lee, J.**, Meyer, K., et al.  
+*Chemistry of Materials*, 2026.  
 [[doi](https://doi.org/10.1021/acs.chemmater.5c02732)]
 
-**Bayesian Functional Region Selection**
-Zhu, H., Sun, Y. and **Lee, J.**
-*Stat*, 2025.
-[[doi](https://doi.org/10.1002/sta4.70047)]
+**Bayesian Functional Region Selection**  
+Zhu, H., Sun, Y. and **Lee, J.**  
+*Stat*, 2025.  
+[[doi](https://doi.org/10.1002/sta4.70047)]  
 
 ---
 
