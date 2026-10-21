@@ -10,8 +10,7 @@ title: Home
       PhD Candidate · Department of Statistics · Virginia Tech
     </p>
     <p>
-      I am a PhD Candidate in the Department of Statistics at Virginia Tech working on
-      variational deep generative latent modeling on heterogeneous data.
+      I am a postdoctoral researcher in the Department of Biostatistics and Health Data Science at Indiana University working on variational deep generative latent modeling on heterogeneous data.
       My work sits at the intersection of Statistics and Machine Learning, with a focus on
       developing variational generative models for structural learning on heterogeneous input
       data and robust prediction by linking latent space and responses.
@@ -30,6 +29,7 @@ title: Home
 
 | Date | |
 |---|---|
+| Sep 2026 | Postdoctoral researcher at Indiana University |
 | Jan 2026 | Paper published at *Chemistry of Materials* — [doi](https://doi.org/10.1021/acs.chemmater.5c02732) |
 | Jan 2025 | Paper published at *Stat* — [doi](https://doi.org/10.1002/sta4.70047) |
 | Aug 2020 | Started PhD program at Virginia Tech |
@@ -37,7 +37,7 @@ title: Home
 
 ---
 
-## Selected Publications
+## Publications
 
 **Spatiotemporal and Statistical Mapping of Transition Metal Equilibria in Alkaline Media**  
 Promi, A., **Lee, J.**, Meyer, K., et al.  
@@ -62,4 +62,4 @@ Zhu, H., Sun, Y. and **Lee, J.**
 
 ---
 
-*Last updated: April 2026*
+*Last updated: September 2026*

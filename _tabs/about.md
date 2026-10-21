@@ -5,14 +5,14 @@ order: 1
 
 ## About Me
 
-I am a PhD Candidate in the Department of Statistics at Virginia Tech, advised by [Dr. Hongxiao Zhu](https://hongxiaozhu.github.io/). I am interested in developing novel statistical methods to address critical challenges in complex and heterogeneous data environments. My doctoral research focuses on developing statistical machine learning frameworks for medical imaging data, as well as analyzing kinetics of chemical elements using sequences of X-ray scans. Prior to my PhD, I received my M.S. in Statistics from Sungkyunkwan University, advised by [Dr. Keunbaik Lee](https://https://sites.google.com/view/keunbaik-lee/). I also received my B.E. in Statistics from Sungkyunkwan University in 2018.
+I am a postdoctoral researcher in the Department of Biostatistics and Health Data Science at Indiana University, advised by [Dr. Selena Wang](https://selenashuowang.github.io/cv/). I am interested in developing novel statistical methods to address critical challenges in complex and heterogeneous data environments. My research focuses on developing statistical machine learning frameworks for image datasets including medical imaging (e.g. MRI, PET, ...) and X-ray scan sequence of chemical elements kinetics. I received my PhD in Statistics in the Department of Statistics at Virginia Tech, advised by [Dr. Hongxiao Zhu](https://hongxiaozhu.github.io/). Prior to my PhD, I received my M.S. in Statistics from Sungkyunkwan University, advised by [Dr. Keunbaik Lee](https://https://sites.google.com/view/keunbaik-lee/). I also received my B.E. in Statistics from Sungkyunkwan University in 2018.
 
 ---
 
 ## Education
 
 **Virginia Tech** · Blacksburg, VA, USA  
-Ph.D. in Statistics · 2020 – Present  
+Ph.D. in Statistics · 2026  
 Advisor: Dr. Hongxiao Zhu
 
 **Sungkyunkwan University** · Seoul, Republic of Korea  

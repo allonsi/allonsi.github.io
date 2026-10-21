@@ -15,7 +15,7 @@ A full version PDF of my CV is available here: **[[Download CV (PDF)](/assets/cv
 ## Education
 
 **Virginia Tech** · Blacksburg, VA, USA  
-Ph.D. in Statistics · 2020 – Present
+Ph.D. in Statistics · 2020 – 2026
 
 **Sungkyunkwan University** · Seoul, Republic of Korea  
 M.S. in Statistics · 2018 – 2020
